@@ -1,5 +1,21 @@
 # 交通
 
+* 大阪市交通局
+ * [大阪地鐵](http://www.kotsu.city.osaka.lg.jp/foreign/chinese-trad/map.html)
+ * [地鐵路線圖](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/map.pdf)
+ * [地鐵首末班發車時間](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/time.pdf)
+
+![大阪地鐵路線圖](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/map.jpg)
+
+* 大阪指南
+ * [大阪含關西機場各鐵路路線圖](http://www.osaka-info.jp/agent/upload/files/ch_t/railway.pdf)
+ * [大阪廣域旅遊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/prefall.pdf)
+ * [大阪市旅遊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/cityall.pdf)
+ * [天王寺週邊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/tennoji.pdf)
+ * [大阪城週邊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/castle.pdf)
+ * [梅田、心齋橋、難波](http://www.osaka-info.jp/agent/upload/files/ch_t/kitaminami.pdf)
+ * [大阪觀光局官方旅遊指南](http://www.osaka-info.jp/agent/upload/files/ch_t2014.pdf)
+
 * [JR 路線圖](https://www.westjr.co.jp/global/tc/travel-information/routemap/)
 
  * [JR 關西廣域 PASS](https://www.westjr.co.jp/global/tc/travel-information/pass/kansai_wide/)
@@ -19,21 +35,9 @@
   * [新大阪站](https://www.westjr.co.jp/global/tc/travel-information/routemap/pdf/station_shin-osaka.pdf)
   * [京都站](https://www.westjr.co.jp/global/tc/travel-information/routemap/pdf/station_kyoto.pdf)
 
-* 大阪市交通局
- * [大阪地鐵](http://www.kotsu.city.osaka.lg.jp/foreign/chinese-trad/map.html)
- * [地鐵路線圖](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/map.pdf)
- * [地鐵首末班發車時間](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/time.pdf)
+* [南海電鐵](http://www.howto-osaka.com/tc/railway/kix/fromkix/index.html)
 
-![大阪地鐵路線圖](http://www.kotsu.city.osaka.lg.jp/library/chinese-trad/img/map.jpg)
-
-* 大阪指南
- * [大阪含關西機場各鐵路路線圖](http://www.osaka-info.jp/agent/upload/files/ch_t/railway.pdf)
- * [大阪廣域旅遊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/prefall.pdf)
- * [大阪市旅遊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/cityall.pdf)
- * [天王寺週邊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/tennoji.pdf)
- * [大阪城週邊景點](http://www.osaka-info.jp/agent/upload/files/ch_t/castle.pdf)
- * [梅田、心齋橋、難波](http://www.osaka-info.jp/agent/upload/files/ch_t/kitaminami.pdf)
- * [大阪觀光局官方旅遊指南](http://www.osaka-info.jp/agent/upload/files/ch_t2014.pdf)
+![南海電鐵地圖](http://www.howto-osaka.com/global/img/railway/kix/fromkix/map/map.png)
 
 * [近鐵優惠票](http://www.kintetsu.co.jp/foreign/chinese-han/ticket/index.html)
  * [台灣近畿國際旅行社](http://www.knt-taiwan.com/)
