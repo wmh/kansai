@@ -76,3 +76,4 @@
 # 其他
 
 * [日本觀光列車總整理-Megumi的日本散步](http://immegumi.pixnet.net/blog/post/184039125-【資訊】移動的風景。日本觀光列車總整理)
+* [台幣對日幣匯率趨勢圖](http://so.cnyes.com/JavascriptGraphic/chartstudy.aspx?country=future&market=forex&code=TWD_JPY&divwidth=990&divheight=300)
