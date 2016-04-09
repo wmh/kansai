@@ -23,7 +23,7 @@
 * [JR 路線圖](https://www.westjr.co.jp/global/tc/travel-information/routemap/)
 * [JR 關西廣域 PASS](https://www.westjr.co.jp/global/tc/travel-information/pass/kansai_wide/)
 
-![JR 關西廣域路線圖](https://www.westjr.co.jp/global/tc/travel-information/pass/kansai_wide/images/kansai_wide_map.gif)
+![JR 關西廣域路線圖](http://www.westjr.co.jp/global/tc/ticket/pass/kansai_wide/images/kansai_wide_map.jpg)
 
 * [全關西路線圖](https://www.westjr.co.jp/global/tc/travel-information/routemap/pdf/map_kansai.pdf)
 * [大阪地區放大版](https://www.westjr.co.jp/global/tc/travel-information/routemap/pdf/map_osaka.pdf)
