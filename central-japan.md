@@ -26,6 +26,16 @@
  * [機場至名古屋站時刻表(假日)](http://www.meitetsu.co.jp/cht/timetable/centrair/timetable/access_e05_02.html)
  * [計算行車時間](https://gist.github.com/wmh/1fdb01dba58599d34dab64944bf05f8b)
 
+* 車型
+
+| 英文 | 日文 | 中文(翻譯問題) |
+| ---: | --- | --- |
+| μ-SKY Limited Express | ミュースカイ | μ-SKY 列車 |
+| Rapid Limited Express | 特急        | 快速特急    |
+|       Limited Express | 快速急行    | 特急        |
+|               Express | 急行        | 急行        |
+|          Semi Express | 準急        | 準急        |
+
 ## 近畿日本鉄道
 
 * [観光特急島風號](http://www.kintetsu.co.jp/senden/shimakaze/tw/)
