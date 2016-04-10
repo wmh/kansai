@@ -23,6 +23,9 @@
 
 ![名鐵中部國際機場路線圖](http://www.meitetsu.co.jp/cht/airport-access/img/index_img01.png)
 
+ * [機場至名古屋站時刻表(假日)](http://www.meitetsu.co.jp/cht/timetable/centrair/timetable/access_e05_02.html)
+ * [計算行車時間](https://gist.github.com/wmh/1fdb01dba58599d34dab64944bf05f8b)
+
 ## 近畿日本鉄道
 
 * [観光特急島風號](http://www.kintetsu.co.jp/senden/shimakaze/tw/)
