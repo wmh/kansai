@@ -29,6 +29,16 @@
 
 ![島風號路線圖](http://www.kintetsu.co.jp/senden/shimakaze/tw/inpuiry/images/map.jpg)
 
+## 名古屋車站
+
+* [1F PDF](http://www.meieki.com/pdf/meieki1f101223.pdf)
+
+![名古屋車站1F平面圖](http://www.meieki.com/images/n_meieki1f101223.gif)
+
+* [B1F PDF](http://www.meieki.com/pdf/meiekib1f101224.pdf)
+
+![名古屋車站B1F平面圖](http://www.meieki.com/images/n_meiekib1f101224.gif)
+
 ## 觀光巴士
 
 * [名古屋觀光遊覽巴士](http://www.nagoya-info.jp/zhtw/routebus/)
