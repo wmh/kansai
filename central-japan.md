@@ -42,6 +42,20 @@
 
 ![島風號路線圖](http://www.kintetsu.co.jp/senden/shimakaze/tw/inpuiry/images/map.jpg)
 
+* 常用連結
+ * [特急券購入・予約](http://www.ticket.kintetsu.co.jp/M/MZZ/MZZ20.do?op=pDisplayServiceMenu) - 可用時間 5:30~23:45
+ * [運賃・料金検索](http://www.ticket.kintetsu.co.jp/M/MRS/MRS10.do?op=pDisplayFareSearch)
+ * [主要車站時刻表](http://www.kintetsu.co.jp/foreign/chinese-han/about/station/timetable/index.html)
+
+* 車型
+
+| 英文 | | 中文 |
+| ---: | --- |
+| Limited Express | 特急 |
+|         Express | 急行 |
+|    Semi Express | 準急 |
+|           Local | 普通 |
+
 ## 名古屋車站
 
 * [1F PDF](http://www.meieki.com/pdf/meieki1f101223.pdf)
