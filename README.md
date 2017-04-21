@@ -2,6 +2,7 @@
 
 * [關西](https://github.com/wmh/travel/blob/master/kansai.md)
 * [中部](https://github.com/wmh/travel/blob/master/central-japan.md)
+* [慶良間](https://github.com/wmh/travel/blob/master/kerama.md)
 
 ## 匯率
 
